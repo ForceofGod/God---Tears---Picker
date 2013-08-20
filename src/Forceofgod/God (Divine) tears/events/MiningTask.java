@@ -1,4 +1,4 @@
-package forceofgod.divinetears.events;
+package Forceofgod.divinetears.events;
  
 import org.powerbot.script.methods.MethodContext;
 import org.powerbot.script.util.Delay;
