@@ -30,7 +30,7 @@ public class DivineTearsCollector extends PollingScript implements PaintListener
  
         private final Image DIVINE_CURSOR = getImage("https://dl.dropboxusercontent.com/u/44164076/divine_tears.png");
  
-        private Gui gui = null;;
+        private Gui gui = null;
         private TaskManager manager = null;
  
         public static String status = "Idle";
