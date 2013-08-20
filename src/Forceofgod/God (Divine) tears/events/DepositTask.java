@@ -1,10 +1,10 @@
-package crunchynut.divinetears.events;
+package forceofgod.divinetears.events;
 
 import org.powerbot.script.methods.MethodContext;
 import org.powerbot.script.util.Random;
 
-import crunchynut.divinetears.DivineTearsCollector;
-import crunchynut.divinetears.tasks.Task;
+import forceofgod.divinetears.DivineTearsCollector;
+import forceofgod.divinetears.tasks.Task;
 
 public class DepositTask extends Task {
 
